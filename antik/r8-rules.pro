@@ -1,3 +1,4 @@
+-dontobfuscate
 -dontwarn **
 -ignorewarnings
 -repackageclasses ''
